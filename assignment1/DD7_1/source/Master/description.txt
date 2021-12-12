@@ -1,0 +1,4 @@
+MASTER PROCESS: 
+The master process creates all the other processes.
+When the program starts, it searches the right path to run the other processes.
+Only the necessary konsoles are showed up, the ones that are interactive with the user and which show the real time motor position.

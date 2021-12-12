@@ -1,0 +1,17 @@
+ The estimated position is: 0.102508 	Fri Dec 10 12:19:10 2021
+ The estimated position is: 0.202508 	Fri Dec 10 12:19:10 2021
+ The estimated position is: 0.296085 	Fri Dec 10 12:19:11 2021
+ The estimated position is: 0.396085 	Fri Dec 10 12:19:11 2021
+ The estimated position is: 0.499644 	Fri Dec 10 12:19:12 2021
+ The estimated position is: 0.599645 	Fri Dec 10 12:19:12 2021
+ The estimated position is: 0.698255 	Fri Dec 10 12:19:13 2021
+ The estimated position is: 0.798255 	Fri Dec 10 12:19:13 2021
+ RESET SIGNAL RECEIVED 	Fri Dec 10 12:19:13 2021
+ Returning to reset Z position... 0.698255 meters still to do 	Fri Dec 10 12:19:13 2021
+ Returning to reset Z position... 0.601808 meters still to do 	Fri Dec 10 12:19:14 2021
+ Returning to reset Z position... 0.501808 meters still to do 	Fri Dec 10 12:19:14 2021
+ Returning to reset Z position... 0.395389 meters still to do 	Fri Dec 10 12:19:15 2021
+ Returning to reset Z position... 0.295389 meters still to do 	Fri Dec 10 12:19:15 2021
+ Returning to reset Z position... 0.203999 meters still to do 	Fri Dec 10 12:19:16 2021
+ Returning to reset Z position... 0.103999 meters still to do 	Fri Dec 10 12:19:16 2021
+ Returning to reset Z position... 0.000000 meters still to do 	Fri Dec 10 12:19:17 2021

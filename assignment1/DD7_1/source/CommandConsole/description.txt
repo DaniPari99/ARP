@@ -1,0 +1,4 @@
+COMMAND CONSOLE:
+The command console prints the menu where the user can see all the possible commands.
+It reads some user inputs for moving the hoist.
+The chosen command from the user is checked and if it is correct (1, 2, 3, 4, 5, 6) is sent to the corresponding motor.

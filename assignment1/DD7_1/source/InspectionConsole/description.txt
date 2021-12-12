@@ -1,0 +1,8 @@
+INSPECTION CONSOLE PROCESS:
+It is capable to tell the user the real-time position of the hoist with a little measurement error.
+It has also 2 commands: 'r' and 's' commands that are used by the user in extreme situations:
+-'s' is the stop signal that is sent to the motors and it stops them immediately the two motors;
+-'r' is the reset signal that makes the motors returning to the reset position.
+Please note:
+Stop command has major priority than reset command.
+Each time a button is pressed by the user, a signal is sent to the watchdog.

@@ -1,0 +1,24 @@
+ARP 2021 - FIRST ASSIGNMENT - GROUP DD7 (Davide Bruzzo and Daniele Martino Parisi)
+
+The aim of the project is to develop, test and deploy an interactive simulator of hoist with 2 d.o.f, in which two different consoles allow the user to activate the hoist.
+
+The project is made of 6 processes: motorX, motorZ, Command Console, Inspection Console, watchdog and master.
+
+The motion is simulated by two motors mx and mz, which displace the hoist along the two respective axis. Motions along axes have their bounds, 0 to 4 (max X position) and 0 to 4 (max Z position).
+
+From the user side there are two consoles (Command Console and Inspection Console) that simulate a real system. 
+
+In the Command console all the possible choices are displayed constantly and the user can type one of them to move x or z motors or stop them.
+If the user presses an invalid command, this command is not taken and the user is warned.
+
+In the Inspection console it is printed the real time motors position. Here also, as highlighted in the command console menu, the user can type 'r' or 's' to reset or stop the motors.
+
+The processes communication is implemented by the using of named pipes. 
+
+For the management of the reset and stop from Inspection console are used signals.
+
+If the user wants to see the record of the position of the different motors or watchdog's timer activity, he can open logs directory and the log files that are inside.
+
+----------------------------------------------------------------------
+For running the project, first of all type ./install.sh in the shell.
+----------------------------------------------------------------------

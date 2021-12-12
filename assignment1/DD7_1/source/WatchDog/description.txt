@@ -1,0 +1,7 @@
+WATCHDOG PROCESS:
+The watchdog process runs in background. 
+Its task is to check costantly all the other processes to see if they are active. 
+Obviously the master process is not controlled.
+Watchdog detects if an user is typing a correct value from Command Console and Inspection Console, and also if the motors (X and Z) are moving.
+Watchdog uses a countdown timer (60 seconds) that is reset every time a condition written here above is verified.
+If all processes are sleepy, so the motors are stopped and the user do not type anything for the countdown time (60 seconds), the watchdog sends a signal to the motors for resetting their position.

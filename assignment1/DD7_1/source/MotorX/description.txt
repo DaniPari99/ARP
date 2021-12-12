@@ -1,0 +1,4 @@
+MOTOR X PROCESS:
+It simulates the motion of the hoist alongside the x axis and sends the position to the inspection console.
+It is constantly waiting for a command sent by the user through the two consoles, when a command is pressed it is detected by this process which executes the chosen task.
+Each time the motor is in movement a signal is sent to the watchdog.

@@ -1,0 +1,28 @@
+ The estimated position is: 0.103909 	Fri Dec 10 12:19:09 2021
+ The estimated position is: 0.203909 	Fri Dec 10 12:19:09 2021
+ The estimated position is: 0.302508 	Fri Dec 10 12:19:10 2021
+ The estimated position is: 0.402508 	Fri Dec 10 12:19:10 2021
+ The estimated position is: 0.496085 	Fri Dec 10 12:19:11 2021
+ The estimated position is: 0.596085 	Fri Dec 10 12:19:11 2021
+ The estimated position is: 0.699645 	Fri Dec 10 12:19:12 2021
+ The estimated position is: 0.799645 	Fri Dec 10 12:19:12 2021
+ The estimated position is: 0.898255 	Fri Dec 10 12:19:13 2021
+ The estimated position is: 0.998255 	Fri Dec 10 12:19:13 2021
+ RESET SIGNAL RECEIVED 	Fri Dec 10 12:19:13 2021
+ Returning to reset X position... 0.898255 meters still to do 	Fri Dec 10 12:19:13 2021
+ Returning to reset X position... 0.801808 meters still to do 	Fri Dec 10 12:19:14 2021
+ Returning to reset X position... 0.701808 meters still to do 	Fri Dec 10 12:19:14 2021
+ Returning to reset X position... 0.595389 meters still to do 	Fri Dec 10 12:19:15 2021
+ Returning to reset X position... 0.495389 meters still to do 	Fri Dec 10 12:19:15 2021
+ Returning to reset X position... 0.403999 meters still to do 	Fri Dec 10 12:19:16 2021
+ Returning to reset X position... 0.303999 meters still to do 	Fri Dec 10 12:19:16 2021
+ Returning to reset X position... 0.197550 meters still to do 	Fri Dec 10 12:19:17 2021
+ Returning to reset X position... 0.101148 meters still to do 	Fri Dec 10 12:19:18 2021
+ Returning to reset X position... 0.001148 meters still to do 	Fri Dec 10 12:19:18 2021
+ Returning to reset X position... 0.000000 meters still to do 	Fri Dec 10 12:19:19 2021
+ RESET SIGNAL RECEIVED 	Fri Dec 10 12:20:18 2021
+ RESET SIGNAL RECEIVED 	Fri Dec 10 12:21:18 2021
+ RESET SIGNAL RECEIVED 	Fri Dec 10 12:22:18 2021
+ RESET SIGNAL RECEIVED 	Fri Dec 10 12:23:19 2021
+ RESET SIGNAL RECEIVED 	Fri Dec 10 12:24:20 2021
+ RESET SIGNAL RECEIVED 	Fri Dec 10 12:25:20 2021
